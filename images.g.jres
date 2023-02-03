@@ -1,0 +1,27 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAEREAAAAAAA0MyREAAAAMDMzMyIEAAA0MzMzI0IAADQzIyIzQgBANDMiIiIiBEBFIiJEJCIEQEUiQkREIgRARCJCREQiBABEEUJEREIAAEQRRUQkQgAAQFRVREIEAAAARERERAAAAAAAREQAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blueorb13"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAA8A8AAAAA8P//+wAAAPA/s7vr7gAAvzOzu+/0D/A+4//+/7wPX+Szv0G/3fFPRTP+T969/VRF4+5E3t2xVEXj7kTevb1PRTP+T97d8V/ks79Bv7398D7j//7/vA8AvzOzu+/0DwDwP7O76+4AAADw///7AAAAAAAA8A8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "girl1"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAu7sLAAAAAAC7uwsAAAAAALu7CwAAAAAAu7sLAAAAAAC7uwsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "level1"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAD/DwAAAAD////+AAAA8O/v7+4PAADw7i9P5P//AO/uL0/tLkIP7/4u70QuQv/v/v6/0SRC/+/v8v7fJEL//+LyTt1OXg8v4vJO7URSD/Di4u/e7f8AAP8uz8ztAAAAAP/czQ4AAAAAwN3MAAAAAADczQAAAAAAAMwMAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "villian1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
